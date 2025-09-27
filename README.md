@@ -114,7 +114,6 @@ Response:
 │ └── design.md
 ├── scripts/ # helper/test scripts
 │ └── test_model.py
-├── tests/ # unit/integration tests
 ├── worker/ # Celery worker
 │ ├── celery_app.py
 │ ├── run_worker.sh
